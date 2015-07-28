@@ -1,0 +1,29 @@
+#navigation-bar
+{
+	position: fixed;
+	top: 0px;
+	left: 0px;
+	height: 45px;
+	width: 100%;
+	background-color:#717171;
+}
+#navigation-bar ul
+{
+	list-style-type:none;
+	margin:0px;
+	padding:0px;	
+}
+#navigation-bar ul li
+{
+	text-decoration:none;
+	display:inline-block;
+	font-family:Arial;
+	font-size:12px;
+	color:white;
+	padding:15px;
+	margin-left:50px;
+	position:relative;
+	top:0px;
+	left:25%;
+	text-shadow:1px -1px 1px #000;
+}
